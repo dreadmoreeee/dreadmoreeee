@@ -8,7 +8,7 @@
 
 ### Open source
 
-77 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+81 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -33,6 +33,7 @@
 | [i18n-diff](https://github.com/dreadmoreeee/i18n-diff) | Compare translation files: missing keys, untranslated text, placeholder mismatches, French typography |
 | [redirect-map-gen](https://github.com/dreadmoreeee/redirect-map-gen) | Build a redirect map for a migration and generate Caddy, nginx, Apache and Netlify rules |
 | [product-feed-gen](https://github.com/dreadmoreeee/product-feed-gen) | Google Merchant feed, Meta catalog and Product JSON-LD from a spreadsheet, validated, bilingual EN/FR |
+| [anchor-check](https://github.com/dreadmoreeee/anchor-check) | Find broken #fragment links, skip links that go nowhere and ARIA references to missing ids |
 
 **Performance**
 
@@ -48,6 +49,7 @@
 | [image-optimizer](https://github.com/dreadmoreeee/image-optimizer) | Batch-optimize images: responsive widths, WebP/AVIF at the lowest quality above an SSIM threshold, srcset snippets |
 | [font-subsetter](https://github.com/dreadmoreeee/font-subsetter) | Subset web fonts to the characters pages use, convert to WOFF2 and write @font-face with unicode-range |
 | [critical-css](https://github.com/dreadmoreeee/critical-css) | Extract and inline above-the-fold CSS, load the rest without blocking, verified by pixel comparison |
+| [asset-fingerprint](https://github.com/dreadmoreeee/asset-fingerprint) | Cache-busting for static sites: hash assets and rewrite references in HTML, CSS and manifests |
 
 **Security and privacy**
 
@@ -81,6 +83,7 @@
 | [webmanifest-check](https://github.com/dreadmoreeee/webmanifest-check) | Check the web app manifest and real icon sizes, and generate the missing icons |
 | [a11y-statement-gen](https://github.com/dreadmoreeee/a11y-statement-gen) | Honest English/French accessibility statements from an a11y-audit report, and progress between audits |
 | [pdf-a11y-check](https://github.com/dreadmoreeee/pdf-a11y-check) | Check PDFs for accessibility: tagging, title, language, real text, fonts, alt text, metadata |
+| [focus-order-map](https://github.com/dreadmoreeee/focus-order-map) | Make keyboard order visible: numbered tab stops on a screenshot, off-screen focus and traps flagged |
 
 **Email**
 
@@ -88,6 +91,7 @@
 |---|---|
 | [html-email-lint](https://github.com/dreadmoreeee/html-email-lint) | Lint HTML emails before sending: Gmail clipping, CSS support per client, links, dark mode, contrast, screenshots |
 | [email-css-inliner](https://github.com/dreadmoreeee/email-css-inliner) | Dependency-free CSS inliner for HTML emails: real cascade, keeps @media and Outlook MSO comments |
+| [email-preview](https://github.com/dreadmoreeee/email-preview) | Preview HTML emails in light, three dark-mode styles and images-off, with contrast flags |
 
 **APIs, payments and business**
 
