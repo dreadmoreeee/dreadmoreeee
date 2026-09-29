@@ -10,6 +10,11 @@
 
 | Project | What it does |
 |---|---|
+| [og-image-gen](https://github.com/dreadmoreeee/og-image-gen) | Generate 1200x630 social share images from templates with text fitting and a WCAG contrast check |
+| [cache-header-audit](https://github.com/dreadmoreeee/cache-header-audit) | Audit HTTP caching and compression of a page and its assets, with exact Caddy, nginx and Apache fixes |
+| [security-txt](https://github.com/dreadmoreeee/security-txt) | Check and generate RFC 9116 security.txt files, with expiry watch and CI exit codes |
+| [contrast-palette](https://github.com/dreadmoreeee/contrast-palette) | WCAG and APCA contrast, nearest passing colour in OKLCH, 50-950 palettes and a check of every text colour on a page |
+| [cookie-policy-gen](https://github.com/dreadmoreeee/cookie-policy-gen) | Generate an English/French cookie disclosure page from a real tracker scan, with a diff to keep it true |
 | [unused-code-audit](https://github.com/dreadmoreeee/unused-code-audit) | Measure unused JavaScript and CSS per page with Chromium coverage, render-blocking files and CI budgets |
 | [web-vitals-lite](https://github.com/dreadmoreeee/web-vitals-lite) | Lab Core Web Vitals without Lighthouse: LCP, CLS, TBT, FCP, TTFB on throttled mobile and desktop, with CI budgets |
 | [status-page-gen](https://github.com/dreadmoreeee/status-page-gen) | Static status page from cron checks: HTTP, TCP, TLS, 90-day uptime bars, incidents in Markdown, Atom feed |
