@@ -8,7 +8,7 @@
 
 ### Open source
 
-52 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+57 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -40,6 +40,9 @@
 | [visual-diff](https://github.com/dreadmoreeee/visual-diff) | Visual regression for websites: frozen-animation screenshots, masks, pixel diffs and an HTML report |
 | [web-font-audit](https://github.com/dreadmoreeee/web-font-audit) | Audit web fonts: formats, font-display, preloads, unused @font-face and real subsetting savings |
 | [http-protocol-check](https://github.com/dreadmoreeee/http-protocol-check) | Check HTTP/2, HTTP/3, accepted TLS versions, certificate chain, HSTS, compression and IPv6 |
+| [image-optimizer](https://github.com/dreadmoreeee/image-optimizer) | Batch-optimize images: responsive widths, WebP/AVIF at the lowest quality above an SSIM threshold, srcset snippets |
+| [font-subsetter](https://github.com/dreadmoreeee/font-subsetter) | Subset web fonts to the characters pages use, convert to WOFF2 and write @font-face with unicode-range |
+| [critical-css](https://github.com/dreadmoreeee/critical-css) | Extract and inline above-the-fold CSS, load the rest without blocking, verified by pixel comparison |
 
 **Security and privacy**
 
@@ -67,6 +70,7 @@
 | [form-audit](https://github.com/dreadmoreeee/form-audit) | Audit web forms read-only: labels, autocomplete, mobile input types, error wiring, touch targets |
 | [html-lint](https://github.com/dreadmoreeee/html-lint) | Lint served HTML: duplicate ids, bad nesting, missing labels and alt, heading order, SARIF output for GitHub |
 | [webmanifest-check](https://github.com/dreadmoreeee/webmanifest-check) | Check the web app manifest and real icon sizes, and generate the missing icons |
+| [a11y-statement-gen](https://github.com/dreadmoreeee/a11y-statement-gen) | Honest English/French accessibility statements from an a11y-audit report, and progress between audits |
 
 **Email**
 
@@ -93,6 +97,7 @@
 
 | Project | What it does |
 |---|---|
+| [website-report-card](https://github.com/dreadmoreeee/website-report-card) | One client-friendly report from eight website checks: grade, traffic lights, top fixes in plain language, PDF |
 | [status-page-gen](https://github.com/dreadmoreeee/status-page-gen) | Static status page from cron checks: HTTP, TCP, TLS, 90-day uptime bars, incidents in Markdown, Atom feed |
 | [page-change-watch](https://github.com/dreadmoreeee/page-change-watch) | Watch pages for meaningful changes with noise filters, snapshots, readable diffs and cron exit codes |
 | [website-ci-checks](https://github.com/dreadmoreeee/website-ci-checks) | GitHub Action that runs my website checks in CI with a job summary and SARIF upload |
