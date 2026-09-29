@@ -8,7 +8,7 @@
 
 ### Open source
 
-57 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+62 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -92,6 +92,11 @@
 | [canada-sales-tax](https://github.com/dreadmoreeee/canada-sales-tax) | Canadian GST/HST/PST/QST by province and date, exact cents, tax-included prices that add up, EN/FR invoice lines. No dependencies. |
 | [invoice-pdf-canada](https://github.com/dreadmoreeee/invoice-pdf-canada) | One-page Canadian PDF invoices from JSON, with GST/HST/PST/QST by province and date, in English or French. 37 tests. |
 | [overdue-invoice-reminders](https://github.com/dreadmoreeee/overdue-invoice-reminders) | Finds overdue invoices in a CSV export and sends tiered email reminders. Dry-run by default. |
+| [stripe-tax-report-ca](https://github.com/dreadmoreeee/stripe-tax-report-ca) | GST/HST/PST/QST report from Stripe CSV exports: collected vs expected per province and period |
+| [ics-lint](https://github.com/dreadmoreeee/ics-lint) | Validate and generate iCalendar files: folding, UIDs, time zones, iTIP REQUEST/CANCEL rules, client quirks |
+| [sms-segments](https://github.com/dreadmoreeee/sms-segments) | SMS length and cost: GSM-7 vs UCS-2, segments, the characters that double the cost, safe replacements |
+| [email-list-hygiene](https://github.com/dreadmoreeee/email-list-hygiene) | Clean a mailing list without sending anything: duplicates, typos, disposable domains, MX, consent |
+| [opening-hours](https://github.com/dreadmoreeee/opening-hours) | Parse English/French opening hours into schema.org JSON-LD, OSM syntax and a DST-safe 'open now' widget |
 
 **Monitoring and CI**
 
