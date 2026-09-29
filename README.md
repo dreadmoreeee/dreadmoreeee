@@ -8,7 +8,7 @@
 
 ### Open source
 
-81 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+83 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -71,6 +71,7 @@
 | [cors-check](https://github.com/dreadmoreeee/cors-check) | Test CORS with real requests: reflected origins, null, wildcard with credentials, look-alike origins |
 | [log-redact](https://github.com/dreadmoreeee/log-redact) | Redact personal data and secrets from logs: emails, phones, cards, SIN, IPs, tokens, with pseudonyms |
 | [compose-audit](https://github.com/dreadmoreeee/compose-audit) | Security audit of docker-compose files: privileged, docker.sock, open ports, secrets, root, limits |
+| [homoglyph-check](https://github.com/dreadmoreeee/homoglyph-check) | Detect deceptive text: mixed scripts, look-alike characters, invisible controls, IDN look-alike domains |
 
 **Accessibility and front-end quality**
 
@@ -115,6 +116,7 @@
 | [opening-hours](https://github.com/dreadmoreeee/opening-hours) | Parse English/French opening hours into schema.org JSON-LD, OSM syntax and a DST-safe 'open now' widget |
 | [canada-address](https://github.com/dreadmoreeee/canada-address) | Normalize and validate Canadian addresses offline: postal code vs province, EN/FR street types, units |
 | [qr-vcard](https://github.com/dreadmoreeee/qr-vcard) | vCards and QR codes for small businesses (URL with UTM, Wi-Fi, SMS), every code verified by decoding |
+| [ca-business-number](https://github.com/dreadmoreeee/ca-business-number) | Validate Canadian business numbers offline: BN9 check digit, GST/HST RT accounts, QST, invoice rules |
 
 **Monitoring and CI**
 
