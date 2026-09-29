@@ -10,6 +10,7 @@
 
 | Project | What it does |
 |---|---|
+| [email-css-inliner](https://github.com/dreadmoreeee/email-css-inliner) | Dependency-free CSS inliner for HTML emails: real cascade, keeps @media and Outlook MSO comments |
 | [og-image-gen](https://github.com/dreadmoreeee/og-image-gen) | Generate 1200x630 social share images from templates with text fitting and a WCAG contrast check |
 | [cache-header-audit](https://github.com/dreadmoreeee/cache-header-audit) | Audit HTTP caching and compression of a page and its assets, with exact Caddy, nginx and Apache fixes |
 | [security-txt](https://github.com/dreadmoreeee/security-txt) | Check and generate RFC 9116 security.txt files, with expiry watch and CI exit codes |
