@@ -8,7 +8,7 @@
 
 ### Open source
 
-62 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+67 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -28,6 +28,7 @@
 | [website-health-audit](https://github.com/dreadmoreeee/website-health-audit) | Ranks small-business websites from worst to best: expired or parked domains, spam takeovers, no HTTPS, not mobile-friendly, no online booking. Standard library only. |
 | [soft-404-check](https://github.com/dreadmoreeee/soft-404-check) | Check how a site handles missing pages: real 404s vs soft 404s and redirects to home |
 | [sitemap-gen](https://github.com/dreadmoreeee/sitemap-gen) | Generate XML sitemaps from a build folder (lastmod from git) or a polite crawl, with hreflang |
+| [schema-lint](https://github.com/dreadmoreeee/schema-lint) | Validate structured data against the real schema.org vocabulary and Google rich-result requirements |
 
 **Performance**
 
@@ -60,6 +61,8 @@
 | [domain-ssl-watch](https://github.com/dreadmoreeee/domain-ssl-watch) | Watch TLS certificate expiry, domain registration (RDAP), DNS and HTTP for your domains, with cron exit codes and optional email/Telegram alerts |
 | [form-spam-guard](https://github.com/dreadmoreeee/form-spam-guard) | Stop form spam without CAPTCHAs: honeypot, signed single-use time tokens, script and link filters, rate limiting |
 | [contact-form-backend](https://github.com/dreadmoreeee/contact-form-backend) | Self-hosted contact form backend with CAPTCHA-free spam protection and SMTP delivery |
+| [secret-scan-web](https://github.com/dreadmoreeee/secret-scan-web) | Find secrets leaked into what a site serves: JS bundles, source maps, exposed .env or .git files |
+| [cors-check](https://github.com/dreadmoreeee/cors-check) | Test CORS with real requests: reflected origins, null, wildcard with credentials, look-alike origins |
 
 **Accessibility and front-end quality**
 
@@ -84,6 +87,8 @@
 | Project | What it does |
 |---|---|
 | [site-api-mapper](https://github.com/dreadmoreeee/site-api-mapper) | Maps the HTTP/JSON API a website uses into an OpenAPI 3 spec + Markdown, from a HAR file, a passive headless capture or its JavaScript. Redacts secrets by default. 133 tests. |
+| [openapi-lint](https://github.com/dreadmoreeee/openapi-lint) | Lint OpenAPI documents: operationIds, error responses, security, examples, pagination, rate-limit headers |
+| [webhook-sender](https://github.com/dreadmoreeee/webhook-sender) | Reliable outgoing webhooks: HMAC signatures, retries with backoff, circuit breaker, outbox and replay |
 | [api-diff](https://github.com/dreadmoreeee/api-diff) | Compares two OpenAPI specs and flags breaking changes, with CI exit codes. 50 tests. |
 | [openapi-client-gen](https://github.com/dreadmoreeee/openapi-client-gen) | Generates a small, typed Python client (httpx + dataclasses) from an OpenAPI spec. 106 tests. |
 | [webhook-inspector](https://github.com/dreadmoreeee/webhook-inspector) | Self-hosted webhook receiver and debugger: verifies Stripe, GitHub and Shopify signatures, stores, replays and exports requests. 60 tests. |
