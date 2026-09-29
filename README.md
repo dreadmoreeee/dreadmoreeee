@@ -10,6 +10,11 @@
 
 | Project | What it does |
 |---|---|
+| [script-inventory](https://github.com/dreadmoreeee/script-inventory) | Inventory every script a page runs: SRI verified, library versions with known advisories, mixed content, CSP hints |
+| [webmanifest-check](https://github.com/dreadmoreeee/webmanifest-check) | Check the web app manifest and real icon sizes, and generate the missing icons |
+| [html-lint](https://github.com/dreadmoreeee/html-lint) | Lint served HTML: duplicate ids, bad nesting, missing labels and alt, heading order, SARIF output for GitHub |
+| [dns-health](https://github.com/dreadmoreeee/dns-health) | DNS health: nameservers, SOA, lame delegation, DNSSEC, CAA vs the real certificate, dangling CNAMEs |
+| [form-audit](https://github.com/dreadmoreeee/form-audit) | Audit web forms read-only: labels, autocomplete, mobile input types, error wiring, touch targets |
 | [email-css-inliner](https://github.com/dreadmoreeee/email-css-inliner) | Dependency-free CSS inliner for HTML emails: real cascade, keeps @media and Outlook MSO comments |
 | [og-image-gen](https://github.com/dreadmoreeee/og-image-gen) | Generate 1200x630 social share images from templates with text fitting and a WCAG contrast check |
 | [cache-header-audit](https://github.com/dreadmoreeee/cache-header-audit) | Audit HTTP caching and compression of a page and its assets, with exact Caddy, nginx and Apache fixes |
