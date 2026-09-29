@@ -10,6 +10,11 @@
 
 | Project | What it does |
 |---|---|
+| [consent-tracker-scan](https://github.com/dreadmoreeee/consent-tracker-scan) | Shows the cookies, storage and third-party trackers a website loads before the visitor consents (Quebec Law 25 / PIPEDA context). 97 tests. |
+| [webhook-inspector](https://github.com/dreadmoreeee/webhook-inspector) | Self-hosted webhook receiver and debugger: verifies Stripe, GitHub and Shopify signatures, stores, replays and exports requests. 60 tests. |
+| [site-seo-crawler](https://github.com/dreadmoreeee/site-seo-crawler) | Crawls your own site and reports technical SEO problems: broken links, redirects, titles, canonicals, hreflang, sitemap gaps, JSON-LD. 38 tests. |
+| [api-diff](https://github.com/dreadmoreeee/api-diff) | Compares two OpenAPI specs and flags breaking changes, with CI exit codes. 50 tests. |
+| [openapi-client-gen](https://github.com/dreadmoreeee/openapi-client-gen) | Generates a small, typed Python client (httpx + dataclasses) from an OpenAPI spec. 106 tests. |
 | [site-api-mapper](https://github.com/dreadmoreeee/site-api-mapper) | Maps the HTTP/JSON API a website uses into an OpenAPI 3 spec + Markdown, from a HAR file, a passive headless capture or its JavaScript. Redacts secrets by default. 121 tests. |
 | [stripe-subscriptions-starter](https://github.com/dreadmoreeee/stripe-subscriptions-starter) | FastAPI + Stripe subscriptions: Checkout, Customer Portal, verified idempotent webhooks that survive out-of-order delivery. 33 tests. |
 | [invoice-pdf-canada](https://github.com/dreadmoreeee/invoice-pdf-canada) | One-page Canadian PDF invoices from JSON, with GST/HST/PST/QST by province and date, in English or French. 37 tests. |
