@@ -10,6 +10,8 @@
 
 | Project | What it does |
 |---|---|
+| [domain-ssl-watch](https://github.com/dreadmoreeee/domain-ssl-watch) | Watch TLS certificate expiry, domain registration (RDAP), DNS and HTTP for your domains, with cron exit codes and optional email/Telegram alerts |
+| [form-spam-guard](https://github.com/dreadmoreeee/form-spam-guard) | Stop form spam without CAPTCHAs: honeypot, signed single-use time tokens, script and link filters, rate limiting |
 | [robots9309](https://github.com/dreadmoreeee/robots9309) | robots.txt matching per RFC 9309 (most specific rule wins, * and $ wildcards); fixes urllib.robotparser's first-match bug. 15 tests. |
 | [consent-tracker-scan](https://github.com/dreadmoreeee/consent-tracker-scan) | Shows the cookies, storage and third-party trackers a website loads before the visitor consents (Quebec Law 25 / PIPEDA context). 110 tests. |
 | [webhook-inspector](https://github.com/dreadmoreeee/webhook-inspector) | Self-hosted webhook receiver and debugger: verifies Stripe, GitHub and Shopify signatures, stores, replays and exports requests. 60 tests. |
