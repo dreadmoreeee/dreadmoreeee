@@ -10,6 +10,7 @@
 
 | Project | What it does |
 |---|---|
+| [site-api-mapper](https://github.com/dreadmoreeee/site-api-mapper) | Maps the HTTP/JSON API a website uses into an OpenAPI 3 spec + Markdown, from a HAR file, a passive headless capture or its JavaScript. Redacts secrets by default. 121 tests. |
 | [stripe-subscriptions-starter](https://github.com/dreadmoreeee/stripe-subscriptions-starter) | FastAPI + Stripe subscriptions: Checkout, Customer Portal, verified idempotent webhooks that survive out-of-order delivery. 33 tests. |
 | [invoice-pdf-canada](https://github.com/dreadmoreeee/invoice-pdf-canada) | One-page Canadian PDF invoices from JSON, with GST/HST/PST/QST by province and date, in English or French. 37 tests. |
 | [stripe-fastapi-webhooks](https://github.com/dreadmoreeee/stripe-fastapi-webhooks) | Stripe Checkout with a verified, idempotent webhook in FastAPI. Signature check without the SDK, replay protection, a late "failed" never overwrites "paid". 16 tests. |
