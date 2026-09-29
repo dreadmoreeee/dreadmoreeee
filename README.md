@@ -10,6 +10,11 @@
 
 | Project | What it does |
 |---|---|
+| [a11y-audit](https://github.com/dreadmoreeee/a11y-audit) | Accessibility audit: axe-core plus keyboard focus, 200% zoom and reduced-motion checks, grouped by WCAG criterion |
+| [og-card-check](https://github.com/dreadmoreeee/og-card-check) | See how your links look when shared: Open Graph, X cards and image checks with rendered card previews |
+| [image-audit](https://github.com/dreadmoreeee/image-audit) | Find image bytes to save: oversized images, WebP/AVIF savings, lazy loading and LCP issues per device |
+| [csp-builder](https://github.com/dreadmoreeee/csp-builder) | Build a tight Content-Security-Policy from what pages really load, with hashes and a diff against your current policy |
+| [redirect-checker](https://github.com/dreadmoreeee/redirect-checker) | Verify redirect maps and canonical hosts: chains, loops, 302 vs 301, https downgrades, www and trailing slashes |
 | [consent-banner-lite](https://github.com/dreadmoreeee/consent-banner-lite) | Dependency-free cookie consent banner (4.8 KB gzipped): equal Reject button, script blocking, Consent Mode v2, EN/FR/ES |
 | [sitemap-diff](https://github.com/dreadmoreeee/sitemap-diff) | Audit XML sitemaps (status, noindex, canonical, robots.txt conflicts, orphan pages) and diff them across a site migration |
 | [security-headers-audit](https://github.com/dreadmoreeee/security-headers-audit) | Grade a site's HTTP security A-F (HSTS, CSP, framing, cookies, TLS) with the exact header to fix each finding |
