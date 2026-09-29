@@ -10,6 +10,7 @@
 
 | Project | What it does |
 |---|---|
+| [sitemap-diff](https://github.com/dreadmoreeee/sitemap-diff) | Audit XML sitemaps (status, noindex, canonical, robots.txt conflicts, orphan pages) and diff them across a site migration |
 | [security-headers-audit](https://github.com/dreadmoreeee/security-headers-audit) | Grade a site's HTTP security A-F (HSTS, CSP, framing, cookies, TLS) with the exact header to fix each finding |
 | [email-dns-check](https://github.com/dreadmoreeee/email-dns-check) | Check SPF, DKIM, DMARC, MX, MTA-STS and TLS-RPT for a domain and get the exact DNS record to publish |
 | [local-business-schema](https://github.com/dreadmoreeee/local-business-schema) | Generate LocalBusiness JSON-LD and check structured data and NAP consistency across a site's pages |
