@@ -8,7 +8,7 @@
 
 ### Open source
 
-67 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+72 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -29,6 +29,8 @@
 | [soft-404-check](https://github.com/dreadmoreeee/soft-404-check) | Check how a site handles missing pages: real 404s vs soft 404s and redirects to home |
 | [sitemap-gen](https://github.com/dreadmoreeee/sitemap-gen) | Generate XML sitemaps from a build folder (lastmod from git) or a polite crawl, with hreflang |
 | [schema-lint](https://github.com/dreadmoreeee/schema-lint) | Validate structured data against the real schema.org vocabulary and Google rich-result requirements |
+| [landing-page-check](https://github.com/dreadmoreeee/landing-page-check) | Check an ads landing page like paid traffic sees it: tracking kept, message match, CTA, speed, consent |
+| [i18n-diff](https://github.com/dreadmoreeee/i18n-diff) | Compare translation files: missing keys, untranslated text, placeholder mismatches, French typography |
 
 **Performance**
 
@@ -63,6 +65,8 @@
 | [contact-form-backend](https://github.com/dreadmoreeee/contact-form-backend) | Self-hosted contact form backend with CAPTCHA-free spam protection and SMTP delivery |
 | [secret-scan-web](https://github.com/dreadmoreeee/secret-scan-web) | Find secrets leaked into what a site serves: JS bundles, source maps, exposed .env or .git files |
 | [cors-check](https://github.com/dreadmoreeee/cors-check) | Test CORS with real requests: reflected origins, null, wildcard with credentials, look-alike origins |
+| [log-redact](https://github.com/dreadmoreeee/log-redact) | Redact personal data and secrets from logs: emails, phones, cards, SIN, IPs, tokens, with pseudonyms |
+| [compose-audit](https://github.com/dreadmoreeee/compose-audit) | Security audit of docker-compose files: privileged, docker.sock, open ports, secrets, root, limits |
 
 **Accessibility and front-end quality**
 
@@ -111,6 +115,7 @@
 | [status-page-gen](https://github.com/dreadmoreeee/status-page-gen) | Static status page from cron checks: HTTP, TCP, TLS, 90-day uptime bars, incidents in Markdown, Atom feed |
 | [page-change-watch](https://github.com/dreadmoreeee/page-change-watch) | Watch pages for meaningful changes with noise filters, snapshots, readable diffs and cron exit codes |
 | [website-ci-checks](https://github.com/dreadmoreeee/website-ci-checks) | GitHub Action that runs my website checks in CI with a job summary and SARIF upload |
+| [sqlite-backup-check](https://github.com/dreadmoreeee/sqlite-backup-check) | Safe SQLite backups: online backup while writing, rotation, checksums, encryption and a restore test |
 
 ### What I work with
 
