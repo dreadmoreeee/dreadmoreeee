@@ -10,6 +10,9 @@
 
 | Project | What it does |
 |---|---|
+| [security-headers-audit](https://github.com/dreadmoreeee/security-headers-audit) | Grade a site's HTTP security A-F (HSTS, CSP, framing, cookies, TLS) with the exact header to fix each finding |
+| [email-dns-check](https://github.com/dreadmoreeee/email-dns-check) | Check SPF, DKIM, DMARC, MX, MTA-STS and TLS-RPT for a domain and get the exact DNS record to publish |
+| [local-business-schema](https://github.com/dreadmoreeee/local-business-schema) | Generate LocalBusiness JSON-LD and check structured data and NAP consistency across a site's pages |
 | [domain-ssl-watch](https://github.com/dreadmoreeee/domain-ssl-watch) | Watch TLS certificate expiry, domain registration (RDAP), DNS and HTTP for your domains, with cron exit codes and optional email/Telegram alerts |
 | [form-spam-guard](https://github.com/dreadmoreeee/form-spam-guard) | Stop form spam without CAPTCHAs: honeypot, signed single-use time tokens, script and link filters, rate limiting |
 | [robots9309](https://github.com/dreadmoreeee/robots9309) | robots.txt matching per RFC 9309 (most specific rule wins, * and $ wildcards); fixes urllib.robotparser's first-match bug. 15 tests. |
