@@ -8,7 +8,7 @@
 
 ### Open source
 
-47 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+52 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -26,6 +26,8 @@
 | [untranslated-check](https://github.com/dreadmoreeee/untranslated-check) | Find untranslated or mixed-language text on multilingual sites, and links that switch language |
 | [readability-check](https://github.com/dreadmoreeee/readability-check) | Readability of web copy in English, French and Spanish with per-language formulas and the hardest sentences |
 | [website-health-audit](https://github.com/dreadmoreeee/website-health-audit) | Ranks small-business websites from worst to best: expired or parked domains, spam takeovers, no HTTPS, not mobile-friendly, no online booking. Standard library only. |
+| [soft-404-check](https://github.com/dreadmoreeee/soft-404-check) | Check how a site handles missing pages: real 404s vs soft 404s and redirects to home |
+| [sitemap-gen](https://github.com/dreadmoreeee/sitemap-gen) | Generate XML sitemaps from a build folder (lastmod from git) or a polite crawl, with hreflang |
 
 **Performance**
 
@@ -36,6 +38,8 @@
 | [unused-code-audit](https://github.com/dreadmoreeee/unused-code-audit) | Measure unused JavaScript and CSS per page with Chromium coverage, render-blocking files and CI budgets |
 | [cache-header-audit](https://github.com/dreadmoreeee/cache-header-audit) | Audit HTTP caching and compression of a page and its assets, with exact Caddy, nginx and Apache fixes |
 | [visual-diff](https://github.com/dreadmoreeee/visual-diff) | Visual regression for websites: frozen-animation screenshots, masks, pixel diffs and an HTML report |
+| [web-font-audit](https://github.com/dreadmoreeee/web-font-audit) | Audit web fonts: formats, font-display, preloads, unused @font-face and real subsetting savings |
+| [http-protocol-check](https://github.com/dreadmoreeee/http-protocol-check) | Check HTTP/2, HTTP/3, accepted TLS versions, certificate chain, HSTS, compression and IPv6 |
 
 **Security and privacy**
 
@@ -52,6 +56,7 @@
 | [email-dns-check](https://github.com/dreadmoreeee/email-dns-check) | Check SPF, DKIM, DMARC, MX, MTA-STS and TLS-RPT for a domain and get the exact DNS record to publish |
 | [domain-ssl-watch](https://github.com/dreadmoreeee/domain-ssl-watch) | Watch TLS certificate expiry, domain registration (RDAP), DNS and HTTP for your domains, with cron exit codes and optional email/Telegram alerts |
 | [form-spam-guard](https://github.com/dreadmoreeee/form-spam-guard) | Stop form spam without CAPTCHAs: honeypot, signed single-use time tokens, script and link filters, rate limiting |
+| [contact-form-backend](https://github.com/dreadmoreeee/contact-form-backend) | Self-hosted contact form backend with CAPTCHA-free spam protection and SMTP delivery |
 
 **Accessibility and front-end quality**
 
