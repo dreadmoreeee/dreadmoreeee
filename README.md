@@ -10,6 +10,11 @@
 
 | Project | What it does |
 |---|---|
+| [untranslated-check](https://github.com/dreadmoreeee/untranslated-check) | Find untranslated or mixed-language text on multilingual sites, and links that switch language |
+| [readability-check](https://github.com/dreadmoreeee/readability-check) | Readability of web copy in English, French and Spanish with per-language formulas and the hardest sentences |
+| [visual-diff](https://github.com/dreadmoreeee/visual-diff) | Visual regression for websites: frozen-animation screenshots, masks, pixel diffs and an HTML report |
+| [indexability-check](https://github.com/dreadmoreeee/indexability-check) | Is each page indexable, and should it be? Robots, noindex, canonicals, sitemaps and their conflicts |
+| [website-ci-checks](https://github.com/dreadmoreeee/website-ci-checks) | GitHub Action that runs my website checks in CI with a job summary and SARIF upload |
 | [script-inventory](https://github.com/dreadmoreeee/script-inventory) | Inventory every script a page runs: SRI verified, library versions with known advisories, mixed content, CSP hints |
 | [webmanifest-check](https://github.com/dreadmoreeee/webmanifest-check) | Check the web app manifest and real icon sizes, and generate the missing icons |
 | [html-lint](https://github.com/dreadmoreeee/html-lint) | Lint served HTML: duplicate ids, bad nesting, missing labels and alt, heading order, SARIF output for GitHub |
