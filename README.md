@@ -8,7 +8,7 @@
 
 ### Open source
 
-72 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
+77 small, tested tools. Each one was run against my own live sites before publishing; the README shows that real output.
 
 **SEO and crawling**
 
@@ -31,6 +31,8 @@
 | [schema-lint](https://github.com/dreadmoreeee/schema-lint) | Validate structured data against the real schema.org vocabulary and Google rich-result requirements |
 | [landing-page-check](https://github.com/dreadmoreeee/landing-page-check) | Check an ads landing page like paid traffic sees it: tracking kept, message match, CTA, speed, consent |
 | [i18n-diff](https://github.com/dreadmoreeee/i18n-diff) | Compare translation files: missing keys, untranslated text, placeholder mismatches, French typography |
+| [redirect-map-gen](https://github.com/dreadmoreeee/redirect-map-gen) | Build a redirect map for a migration and generate Caddy, nginx, Apache and Netlify rules |
+| [product-feed-gen](https://github.com/dreadmoreeee/product-feed-gen) | Google Merchant feed, Meta catalog and Product JSON-LD from a spreadsheet, validated, bilingual EN/FR |
 
 **Performance**
 
@@ -78,6 +80,7 @@
 | [html-lint](https://github.com/dreadmoreeee/html-lint) | Lint served HTML: duplicate ids, bad nesting, missing labels and alt, heading order, SARIF output for GitHub |
 | [webmanifest-check](https://github.com/dreadmoreeee/webmanifest-check) | Check the web app manifest and real icon sizes, and generate the missing icons |
 | [a11y-statement-gen](https://github.com/dreadmoreeee/a11y-statement-gen) | Honest English/French accessibility statements from an a11y-audit report, and progress between audits |
+| [pdf-a11y-check](https://github.com/dreadmoreeee/pdf-a11y-check) | Check PDFs for accessibility: tagging, title, language, real text, fonts, alt text, metadata |
 
 **Email**
 
@@ -106,6 +109,8 @@
 | [sms-segments](https://github.com/dreadmoreeee/sms-segments) | SMS length and cost: GSM-7 vs UCS-2, segments, the characters that double the cost, safe replacements |
 | [email-list-hygiene](https://github.com/dreadmoreeee/email-list-hygiene) | Clean a mailing list without sending anything: duplicates, typos, disposable domains, MX, consent |
 | [opening-hours](https://github.com/dreadmoreeee/opening-hours) | Parse English/French opening hours into schema.org JSON-LD, OSM syntax and a DST-safe 'open now' widget |
+| [canada-address](https://github.com/dreadmoreeee/canada-address) | Normalize and validate Canadian addresses offline: postal code vs province, EN/FR street types, units |
+| [qr-vcard](https://github.com/dreadmoreeee/qr-vcard) | vCards and QR codes for small businesses (URL with UTM, Wi-Fi, SMS), every code verified by decoding |
 
 **Monitoring and CI**
 
