@@ -10,6 +10,8 @@
 
 | Project | What it does |
 |---|---|
+| [stripe-subscriptions-starter](https://github.com/dreadmoreeee/stripe-subscriptions-starter) | FastAPI + Stripe subscriptions: Checkout, Customer Portal, verified idempotent webhooks that survive out-of-order delivery. 33 tests. |
+| [invoice-pdf-canada](https://github.com/dreadmoreeee/invoice-pdf-canada) | One-page Canadian PDF invoices from JSON, with GST/HST/PST/QST by province and date, in English or French. 37 tests. |
 | [stripe-fastapi-webhooks](https://github.com/dreadmoreeee/stripe-fastapi-webhooks) | Stripe Checkout with a verified, idempotent webhook in FastAPI. Signature check without the SDK, replay protection, a late "failed" never overwrites "paid". 16 tests. |
 | [canada-sales-tax](https://github.com/dreadmoreeee/canada-sales-tax) | Canadian GST/HST/PST/QST by province and date, exact cents, tax-included prices that add up, EN/FR invoice lines. No dependencies. |
 | [website-health-audit](https://github.com/dreadmoreeee/website-health-audit) | Ranks small-business websites from worst to best: expired or parked domains, spam takeovers, no HTTPS, not mobile-friendly, no online booking. Standard library only. |
