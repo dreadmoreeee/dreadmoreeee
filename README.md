@@ -10,6 +10,12 @@
 
 | Project | What it does |
 |---|---|
+| [unused-code-audit](https://github.com/dreadmoreeee/unused-code-audit) | Measure unused JavaScript and CSS per page with Chromium coverage, render-blocking files and CI budgets |
+| [web-vitals-lite](https://github.com/dreadmoreeee/web-vitals-lite) | Lab Core Web Vitals without Lighthouse: LCP, CLS, TBT, FCP, TTFB on throttled mobile and desktop, with CI budgets |
+| [status-page-gen](https://github.com/dreadmoreeee/status-page-gen) | Static status page from cron checks: HTTP, TCP, TLS, 90-day uptime bars, incidents in Markdown, Atom feed |
+| [html-email-lint](https://github.com/dreadmoreeee/html-email-lint) | Lint HTML emails before sending: Gmail clipping, CSS support per client, links, dark mode, contrast, screenshots |
+| [hreflang-check](https://github.com/dreadmoreeee/hreflang-check) | Validate hreflang for multilingual sites: codes, return links, x-default, canonical conflicts, html lang |
+| [page-change-watch](https://github.com/dreadmoreeee/page-change-watch) | Watch pages for meaningful changes with noise filters, snapshots, readable diffs and cron exit codes |
 | [a11y-audit](https://github.com/dreadmoreeee/a11y-audit) | Accessibility audit: axe-core plus keyboard focus, 200% zoom and reduced-motion checks, grouped by WCAG criterion |
 | [og-card-check](https://github.com/dreadmoreeee/og-card-check) | See how your links look when shared: Open Graph, X cards and image checks with rendered card previews |
 | [image-audit](https://github.com/dreadmoreeee/image-audit) | Find image bytes to save: oversized images, WebP/AVIF savings, lazy loading and LCP issues per device |
