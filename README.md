@@ -4,6 +4,8 @@
 
 - 🌐 Portfolio: **[marvin.demarkstudio.ca](https://marvin.demarkstudio.ca)** ([en español](https://marvin.demarkstudio.ca/es/))
 - 💼 Hire me: [Upwork](https://www.upwork.com/freelancers/~012519d03b23b2c426) · [Fiverr](https://www.fiverr.com/marvin_pal) · [LinkedIn](https://www.linkedin.com/in/marvin-palencia-09129643b/)
+- 📊 Latest study: [I checked 2,417 small-business websites in Atlantic Canada; one in seven didn't work at all](https://marvin.demarkstudio.ca/work/atlantic-websites-2026/)
+- ✅ Is your site OK? Free instant grade: [demarkstudio.ca/en/report-card](https://demarkstudio.ca/en/report-card?utm_source=github&utm_medium=profile&utm_campaign=report-card)
 - 🗣️ English & Spanish
 
 ### Open source
